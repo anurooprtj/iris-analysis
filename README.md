@@ -17,6 +17,6 @@ Foreground and Background classification of iris data using CNN.
 
 ### Performance Chart 
 
-![alt text](https://github.com/anurooprtj/machine-learning-model-evaluation-iris/blob/master/model_comparison_chart.png)
+![alt text](https://github.com/anurooprtj/iris-analysis/blob/master/performance_chart.png)
 
 
